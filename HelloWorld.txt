@@ -1,4 +1,8 @@
-print("Hello World!");
-print("HELLO")
-print("hello friend")
-print("i see you")
+print("Hello World!;");
+print("HELLO;")
+print("hello friend;")
+print("i see you;")
+=======
+print("Hello World!;");
+print("HELLO;")
+
